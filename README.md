@@ -22,4 +22,4 @@ $base_url = 'http://localhost/CMSNT/CHANLEMOMO/'; // Thay url web bạn
 * Phát tán và lưu trữ các loại mã độc nhằm mục đích tấn công website khác, hoặc mục đích phá hoại hệ thống của FUTE như Botnet, DDoS, Malware, Virus, Phishing. Bao gồm trường hợp website chứa mã độc.
 
 # Liên hệ 
-* Email: refresh.official@protonmail.
+ @email: refresh.official@protonmail
